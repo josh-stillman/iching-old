@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import { Hexagram, Line } from './utils';
-
+import React from 'react';
+import { Line } from './utils';
+import { Straight, StraightPlus, Broken, BrokenPlus } from './Hexline.css';
 interface Props {
   line: Line;
 }
@@ -8,13 +8,13 @@ interface Props {
 const HexLine = ({ line }: Props) => {
   switch (line) {
     case Line.Broken:
-      return <p>broken</p>
+      return <Broken/>
     case Line.BrokenPlus:
-      return <p>brokenPlus</p>
+      return <BrokenPlus/>
     case Line.Straight:
-      return <p>Straight</p>
+      return <Straight/>
     case Line.StraightPlus:
-      return <p>StraightPlus</p>
+      return <StraightPlus/>
     default:
       return <p>woops</p>
   }

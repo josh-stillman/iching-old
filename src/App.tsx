@@ -1,7 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
-import IChingPage from './IChingPage';
+import IChingPage from './IChingPage/IChingPage';
 
 function App() {
   return (
