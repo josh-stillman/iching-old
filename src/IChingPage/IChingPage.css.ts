@@ -15,10 +15,10 @@ export const IChingPageWrapper = styled.div`
 
 export const HexContainer = styled.div`
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-column-gap: 100px;
   min-width: 200px;
-  max-width: 550px;
+  max-width: 700px;
   width: 100%;
   max-height: 100%;
 `;

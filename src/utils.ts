@@ -1,14 +1,11 @@
 /*
 TODO:
 1. organize/break into files
-2. UI
+2. hand drawn lines
 3. Animations on line and draw
 4. Click to re-cast
-5. Add background
 6. Add links to books
 7. SEO
-8. Git
-9. Deploy
 */
 
 enum Coin {
@@ -22,15 +19,6 @@ export enum Line {
   Broken = Coin.Heads + Coin.Heads + Coin.Tails, // 2
   StraightPlus = Coin.Heads + Coin.Heads + Coin.Heads, // 3
 }
-
-// Straight = TTH = 1
-// Straight+ = HHH = 3
-// Broken = HHT = 2
-// Broken+ = TTT = 0
-// }
-
-// TODO: animate / glow changing lines.
-
 
 
 interface Trigrams {
@@ -88,66 +76,66 @@ interface HexagramNames {
 const HEXAGRAM_NAMES: HexagramNames = {
   1: 'The Creative',
   2: 'The Receptive',
-  3: 'Difficult Beginnings',
+  3: 'Difficulty at the Beginning',
   4: 'Youthful Folly',
-  5: 'Nourished While Waiting',
+  5: 'Waiting (Nourishment)',
   6: 'Conflict',
-  7: 'Army',
-  8: 'Uniting',
-  9: 'Small Restraint',
-  10: 'Treading',
+  7: 'The Army',
+  8: 'Holding Together [Union]',
+  9: 'The Taming Power of the Small',
+  10: 'Treading [Conduct]',
   11: 'Peace',
-  12: 'Standstill',
+  12: 'Standstill [Stagnation]',
   13: 'Fellowship',
-  14: 'Great Possessing',
-  15: 'Authenticity',
+  14: 'Possession in Great Measure',
+  15: 'Modesty',
   16: 'Enthusiasm',
   17: 'Following',
-  18: 'Decay',
+  18: 'Work on What Has Been Spoiled',
   19: 'Approach',
-  20: 'Contemplation',
-  21: 'Ho Biting Through',
+  20: 'Contemplation (View)',
+  21: 'Biting Through',
   22: 'Grace',
-  23: 'Split Apart',
-  24: 'Return',
-  25: 'Innocence',
-  26: 'Controlled Power',
-  27: 'Nourishing Vision',
-  28: 'Critical Mass',
-  29: 'Abyss',
-  30: 'Clarity',
-  31: 'Influence/Wooing',
+  23: 'Splitting Apart',
+  24: 'Return (The Turning Point)',
+  25: 'Innocence (The Unexpected)',
+  26: 'The Taming Power of the Great',
+  27: 'The Corners of the Mouth',
+  28: 'Preponderance of the Great',
+  29: 'The Abysmal (Water)',
+  30: 'The Clinging, Fire',
+  31: 'Influence (Wooing)',
   32: 'Duration',
   33: 'Retreat',
-  34: 'Great Power',
+  34: 'The Power of the Great',
   35: 'Progress',
-  36: 'Brightness Hiding',
-  37: 'Family',
+  36: 'Darkening of the Light',
+  37: 'The Family [The Clan]',
   38: 'Opposition',
   39: 'Obstruction',
-  40: 'Liberation',
+  40: 'Deliverance',
   41: 'Decrease',
   42: 'Increase',
-  43: 'Determination',
+  43: 'Break-through (Resoluteness)',
   44: 'Coming to Meet',
-  45: 'Gathering Together',
+  45: 'Gathering Together [Massing]',
   46: 'Pushing Upward',
-  47: 'Oppression/Exhaustion',
+  47: 'Oppression (Exhaustion)',
   48: 'The Well',
-  49: 'Molting/Revolution',
-  50: 'Cauldron',
-  51: 'Shocking',
-  52: 'Keeping Still',
-  53: 'Development',
-  54: 'Propriety',
-  55: 'Abundance',
+  49: 'Revolution (Molting)',
+  50: 'The Cauldron',
+  51: 'The Arousing (Shock, Thunder)',
+  52: 'Keeping Still, Mountain',
+  53: 'Development (Gradual Progress)',
+  54: 'The Marrying Maiden',
+  55: 'Abundance [Fullness]',
   56: 'The Wanderer',
-  57: 'Penetration',
-  58: 'Joy',
-  59: 'Dispersion',
+  57: 'The Gentle (The Penetrating, Wind)',
+  58: 'The Joyous, Lake',
+  59: 'Dispersion [Dissolution]',
   60: 'Limitation',
   61: 'Inner Truth',
-  62: 'Small Exceeding',
+  62: 'Preponderance of the Small',
   63: 'After Completion',
   64: 'Before Completion',
 };
@@ -253,11 +241,4 @@ export class Hexagram {
   }
 }
 
-// export const coinToss = (): Coin => (
-//   Math.round(Math.random()) as Coin
-// )
-
-// export const getLine = (): Line => (
-//   (coinToss() + coinToss() + coinToss()) as Line
-// )
 
