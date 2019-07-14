@@ -4,7 +4,6 @@ TODO:
 2. hand drawn lines
 3. Animations on line and draw
 4. Click to re-cast
-6. Add links to books
 7. SEO
 */
 
@@ -150,9 +149,7 @@ export class Trigram {
   constructor(lines?: [Line, Line, Line]) {
     this.lines = lines || [this.getLine(), this.getLine(), this.getLine()];
     this.key = this.getKey(this.lines);
-    console.log("trigram key:", this.key)
     this.trigramName = Trigrams[this.key];
-    console.log("trigram name:", this.trigramName)
     this.trigramLookup = TRIGRAM_LOOKUP_ORDER[this.trigramName];
     this.changing = this.lines.some((line: Line) => line === Line.BrokenPlus || line === Line.StraightPlus);
   }
@@ -200,10 +197,6 @@ export class Trigram {
     const key = '' + normalizedLines[0] + normalizedLines[1] + normalizedLines[2];
     return key;
   }
-
-  // getChanging(){
-  //   return new Trigram(this.transformLines());
-  // }
 }
 
 export class Hexagram {
@@ -226,7 +219,6 @@ export class Hexagram {
   }
 
   getLinesDescending(): Line[] {
-    console.log ("lines desc", this.getLinesAscending().reverse())
     return this.getLinesAscending().reverse();
   }
 
