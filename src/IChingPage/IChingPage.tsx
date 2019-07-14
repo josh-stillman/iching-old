@@ -1,7 +1,7 @@
 import React, {Component, Fragment} from 'react';
 import { Hexagram } from '../utils';
 import Hex from '../Hex';
-import { HexContainer } from './IChingPage.css';
+import { HexContainer, IChingPageWrapper } from './IChingPage.css';
 
 interface State {
   hexagram: Hexagram;
@@ -22,15 +22,15 @@ class IChingPage extends Component<any, State> {
 
   render() {
     const { hexagram, changingHex } = this.state;
+
     return (
-      <div>
-        <p>I Ching</p>
+      <IChingPageWrapper>
         <HexContainer>
           <Hex hexagram={hexagram}/>
 
           {changingHex && <Hex hexagram={changingHex}/>}
         </HexContainer>
-      </div>
+      </IChingPageWrapper>
     );
   }
 }

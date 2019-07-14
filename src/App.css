@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  font-family: 'East Sea Dokdo', cursive, sans-serif;
 }
 
 .App-logo {

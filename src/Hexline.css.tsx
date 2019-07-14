@@ -4,12 +4,12 @@ import React from 'react';
 export const Straight = styled.div`
   height: 30px;
   width: 200px;
-  background-color: black;
+  background-color: darkslategrey;
   margin: 20px auto;
 `;
 
 export const StraightPlus = styled(Straight)`
-  background-color: red;
+  background-color: tomato;
 `;
 
 export const BrokenContainer = styled.div`
@@ -23,11 +23,11 @@ export const BrokenContainer = styled.div`
 export const BrokenSegment = styled.div`
   height: 100%;
   width: 33%;
-  background-color: black;
+  background-color: darkslategrey;
 `;
 
 export const BrokenSegmentPlus = styled(BrokenSegment)`
-  background-color: red;
+  background-color: tomato;
 `;
 
 export const Broken = () => (

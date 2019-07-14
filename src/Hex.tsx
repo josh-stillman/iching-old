@@ -2,16 +2,18 @@ import React from 'react';
 
 import { Hexagram, Line } from './utils';
 import HexLine from './HexLine';
+import { HexagramWrapper, Title } from './Hex.css';
 
 interface Props {
   hexagram: Hexagram;
 }
 
 const Hex = ({ hexagram }: Props) => (
-  <div>
-    <p>{`${hexagram.hexagramNumber}: ${hexagram.hexagramName}`}</p>
+  <HexagramWrapper>
+    <Title>{`${hexagram.hexagramNumber}: ${hexagram.hexagramName}`}</Title>
+
     {hexagram.getLinesDescending().map((line: Line) => <HexLine line={line}/>)}
-  </div>
+  </HexagramWrapper>
 );
 
 export default Hex;
