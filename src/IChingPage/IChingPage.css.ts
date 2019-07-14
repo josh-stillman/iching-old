@@ -22,3 +22,21 @@ export const HexContainer = styled.div`
   width: 100%;
   max-height: 100%;
 `;
+
+export const LinkContainer = styled.div`
+  justify-self: flex-end;
+  display: flex;
+  flex-direction: column;
+
+  @media (min-width: 700px) {
+    position: absolute;
+    bottom: 0;
+  }
+`;
+
+export const Link = styled.a`
+  font-family: 'East Sea Dokdo', cursive, sans-serif;
+  font-size: 35px;
+  color: black;
+  line-height: 100%;
+`
