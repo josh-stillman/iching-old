@@ -7,6 +7,8 @@ TODO:
 7. SEO
 */
 
+import { TEXT } from "./text/wilhelm";
+
 enum Coin {
   Tails = 0,
   Heads = 1
@@ -145,6 +147,7 @@ export class Trigram {
   trigramName: string;
   trigramLookup: number;
   changing: boolean;
+  changingLines: number[];
 
   constructor(lines?: [Line, Line, Line]) {
     this.lines = lines || [this.getLine(), this.getLine(), this.getLine()];
@@ -152,6 +155,12 @@ export class Trigram {
     this.trigramName = Trigrams[this.key];
     this.trigramLookup = TRIGRAM_LOOKUP_ORDER[this.trigramName];
     this.changing = this.lines.some((line: Line) => line === Line.BrokenPlus || line === Line.StraightPlus);
+    this.changingLines = this.lines.reduce<number[]>((acc: number[], el: Line, i: number, array: Line[]) => {
+        if (el == Line.BrokenPlus || el === Line.StraightPlus) {
+          acc.push(i);
+          }
+        return acc;
+    }, [] as number[]);
   }
 
   coinToss = (): Coin => (
@@ -205,6 +214,9 @@ export class Hexagram {
   hexagramNumber: number;
   hexagramName: string;
   changing: boolean;
+  text: string;
+  changingLines: number[];
+  changingLinesText: string[];
 
   constructor(lowerTrigram?: Trigram, upperTrigram?: Trigram) {
     this.lowerTrigram = lowerTrigram || new Trigram();
@@ -212,6 +224,9 @@ export class Hexagram {
     this.hexagramNumber = HEXAGRAM_LOOKUP_TABLE[this.lowerTrigram.trigramLookup][this.upperTrigram.trigramLookup];
     this.hexagramName = HEXAGRAM_NAMES[this.hexagramNumber];
     this.changing = this.lowerTrigram.changing || this.upperTrigram.changing;
+    this.text = TEXT[this.hexagramNumber].text;
+    this.changingLines = [...this.lowerTrigram.changingLines.map(i => i + 1), ...this.upperTrigram.changingLines.map(i => i + 4)];
+    this.changingLinesText = [...this.changingLines.map(displayNum => TEXT[this.hexagramNumber].lines[displayNum -1])];
   }
 
   private getLinesAscending(): Line[] {
