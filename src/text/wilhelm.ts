@@ -387,9 +387,7 @@ The situation is extremely dangerous. IT is of utmost gravity now--a matter of l
 Waiting at meat and drink.
 Perseverance brings good fortune.
 
-Even in the midst of danger there come intervals of peace when things go relatively well. If we possess enough inner strength, we shall take advantage of these intervals to fortify ourselves for renewed struggle. We must know how to enjoy the moment without being deflected from the goal, for perseverance is needed to remain victorious. This is true in public life as well; it is not possible to achieve everything all at once. The height of wisdom is to allow people enough recreation to quicken pleasure in their work until the task is completed. Herein lies the secret of the whole hexagram. It differs from Chin OBSTRUCTION
-
-39, in the fact that in this instance, while waiting, we are sure of our cause and therefore do not lose the serenity born of inner cheerfulness.
+Even in the midst of danger there come intervals of peace when things go relatively well. If we possess enough inner strength, we shall take advantage of these intervals to fortify ourselves for renewed struggle. We must know how to enjoy the moment without being deflected from the goal, for perseverance is needed to remain victorious. This is true in public life as well; it is not possible to achieve everything all at once. The height of wisdom is to allow people enough recreation to quicken pleasure in their work until the task is completed. Herein lies the secret of the whole hexagram. It differs from Chin OBSTRUCTION 39, in the fact that in this instance, while waiting, we are sure of our cause and therefore do not lose the serenity born of inner cheerfulness.
 `,
       `Six at the top means:
 
@@ -957,9 +955,7 @@ The standstill does not last forever. However, it does not cease of its own acco
     text: `above CH'IEN THE CREATIVE, HEAVEN
 below LI THE CLINGING, FLAME
 
-The image of the upper trigram Ch'ien is heaven, and that of the lower, Li, is flame. It is the nature of fire to flame up to the heaven. This gives the idea of fellowship. IT is the second line that, by virtue of its central character, unites the five strong lines around it. This hexagram forms a complement to Shih, THE ARMY
-
-1. In the latter, danger is within and obedience without--the character of a warlike army, which, in order to hold together, needs one strong man among the many who are weak. Here, clarity is within and strength without--the character of a peaceful union of men, which, in order to hold together, needs one yielding nature among many firm persons.
+The image of the upper trigram Ch'ien is heaven, and that of the lower, Li, is flame. It is the nature of fire to flame up to the heaven. This gives the idea of fellowship. IT is the second line that, by virtue of its central character, unites the five strong lines around it. This hexagram forms a complement to Shih, THE ARMY 1. In the latter, danger is within and obedience without--the character of a warlike army, which, in order to hold together, needs one strong man among the many who are weak. Here, clarity is within and strength without--the character of a peaceful union of men, which, in order to hold together, needs one yielding nature among many firm persons.
 
 THE JUDGMENT
 
@@ -1992,9 +1988,7 @@ A man wishes to make vigorous advance, but circumstances present an obstacle. He
 
 The axletrees are taken from the wagon.
 
-Here advance is checked just as in the third line of THE TAMING POWER OF THE SMALL
-
-9. However, in the later the restraining force is slight; thus a conflict arises between the propulsive and the restraining movement, as a result of which the spokes fall out of the wagon wheels, while here the restraining force is absolutely superior; hence no struggle takes place. One submits and removes the axletrees from the wagon -in other words, contents himself with waiting. In this way energy accumulates for a vigorous advance later on.
+Here advance is checked just as in the third line of THE TAMING POWER OF THE SMALL 9. However, in the later the restraining force is slight; thus a conflict arises between the propulsive and the restraining movement, as a result of which the spokes fall out of the wagon wheels, while here the restraining force is absolutely superior; hence no struggle takes place. One submits and removes the axletrees from the wagon -in other words, contents himself with waiting. In this way energy accumulates for a vigorous advance later on.
 `,
       `
 Nine in the third place means.
@@ -3517,9 +3511,7 @@ When a man has withdrawn from the world, its tumult often becomes unbearable to 
     text: `above TUI THE JOYOUS, LAKE
 below K'UN THE RECEPTIVE, EARTH
 
-This hexagram is related in form and meaning to Pi, HOLDING TOGETHER
-
-8. In the latter, water is over the earth; here a lake is over the earth. But since the lake is a place where water collects, the idea of gathering together is even more strongly expressed here than in the other hexagram. The same idea also arises from the fact that in the present case it is two strong lines (the fourth and the fifth) that bring about the gather together, whereas in the former case one strong line (the fifth) stands in the midst of weak lines.
+This hexagram is related in form and meaning to Pi, HOLDING TOGETHER 8. In the latter, water is over the earth; here a lake is over the earth. But since the lake is a place where water collects, the idea of gathering together is even more strongly expressed here than in the other hexagram. The same idea also arises from the fact that in the present case it is two strong lines (the fourth and the fifth) that bring about the gather together, whereas in the former case one strong line (the fifth) stands in the midst of weak lines.
 
 THE JUDGMENT
 
@@ -3614,9 +3606,7 @@ It may happen that an individual would like to ally himself with another, but hi
     text: `above K'UN THE RECEPTIVE, EARTH
 below SUN THE GENTLE, WIND, WOOD
 
-The lower trigram, Sun, represents wood, and the upper, K'un, means the earth. Linked with this is the idea that wood in the earth grows upward. In contrast to the meaning of Chin, PROGRESS
-
-35, this pushing upward is associated with effort, just as a plant needs energy for pushing upward through the earth. That is why this hexagram, although it is connected with success, is associated with effort of the will. In PROGRESS the emphasis is on expansion; PUSHING UPWARD indicates rather a vertical ascent-direct rise from obscurity and lowliness to power and influence.
+The lower trigram, Sun, represents wood, and the upper, K'un, means the earth. Linked with this is the idea that wood in the earth grows upward. In contrast to the meaning of Chin, PROGRESS 35, this pushing upward is associated with effort, just as a plant needs energy for pushing upward through the earth. That is why this hexagram, although it is connected with success, is associated with effort of the will. In PROGRESS the emphasis is on expansion; PUSHING UPWARD indicates rather a vertical ascent-direct rise from obscurity and lowliness to power and influence.
 
 THE JUDGMENT
 
@@ -3867,9 +3857,7 @@ The well is there fore all. No one is forbidden to take water from it. No matter
     text: `above TUI THE JOYOUS, LAKE
 below LI THE CLINGING, FIRE
 
-The Chinese character for this hexagram means in its original sense an animal's pelt, which is changed in the course of the year by molting. From this word is carried over to apply to the "moltings" in political life, the great revolutions connected with changes of governments. The two trigrams making up the hexagram are the same two that appear in K'uei, OPPOSITION
-
-38, that is, the two younger daughters, Li and Tui. But while there the elder of the two daughters is above, and what results is essentially only an opposition of tendencies, here the younger daughter is above. The influences are in actual conflict, and the forces combat each other like fire and water (lake), each trying to destroy the other. Hence the idea of revolution.
+The Chinese character for this hexagram means in its original sense an animal's pelt, which is changed in the course of the year by molting. From this word is carried over to apply to the "moltings" in political life, the great revolutions connected with changes of governments. The two trigrams making up the hexagram are the same two that appear in K'uei, OPPOSITION 38, that is, the two younger daughters, Li and Tui. But while there the elder of the two daughters is above, and what results is essentially only an opposition of tendencies, here the younger daughter is above. The influences are in actual conflict, and the forces combat each other like fire and water (lake), each trying to destroy the other. Hence the idea of revolution.
 
 THE JUDGMENT
 
@@ -3953,9 +3941,7 @@ After the large and fundamental problems are settled, certain minor reforms, and
     text: `above LI THE CLINGING, FIRE
 below SUN THE GENTLE, WIND, WOOD
 
-The six lines construct the image of Ting, THE CALDRON; at the bottom are the legs, over them the belly, then come the ears (handles), and at the top the carrying rings. At the same time, the image suggests the idea of nourishment. The ting, cast of bronze, was the vessel that held the cooked viands in the temple of the ancestors and at banquets. The heads of the family served the food from the ting into the bowls of the guests. THE WELL
-
-48 likewise has the secondary meaning of giving nourishment, but rather more in relation to the people. The ting, as a utensil pertaining to a refined civilization, suggests the fostering and nourishing of able men, which redounded to the benefit of the state. This hexagram and THE WELL are the only two in the Book of Changes that represent concrete, men-made objects. Yet here too the thought has its abstract connotation. Sun, below, is wood and wind; Li, above, is flame. Thus together they stand for the flame kindled by wood and wind, which likewise suggests the idea of preparing food.
+The six lines construct the image of Ting, THE CALDRON; at the bottom are the legs, over them the belly, then come the ears (handles), and at the top the carrying rings. At the same time, the image suggests the idea of nourishment. The ting, cast of bronze, was the vessel that held the cooked viands in the temple of the ancestors and at banquets. The heads of the family served the food from the ting into the bowls of the guests. THE WELL 48 likewise has the secondary meaning of giving nourishment, but rather more in relation to the people. The ting, as a utensil pertaining to a refined civilization, suggests the fostering and nourishing of able men, which redounded to the benefit of the state. This hexagram and THE WELL are the only two in the Book of Changes that represent concrete, men-made objects. Yet here too the thought has its abstract connotation. Sun, below, is wood and wind; Li, above, is flame. Thus together they stand for the flame kindled by wood and wind, which likewise suggests the idea of preparing food.
 
 THE JUDGMENT
 
@@ -4299,13 +4285,7 @@ Here life comes to its end. A man's work stands completed. The path rises high t
     text: `above CHêN THE AROUSING, THUNDER
 below TUI THE JOYOUS, LAKE
 
-Above we have Chên, the eldest son, and below, Tui, the youngest daughter. The man leads and the girl follows him in gladness. The picture is that of the entrance of the girl into her husband's house. In all, there are four hexagrams depicting the relationship between husband and wife. Hsien, INFLUENCE,
-
-31, describes the attraction that a young couple have for each other; Hêng, DURATION
-
-32, portrays the permanent relationships of marriage; Chien, DEVELOPMENT
-
-53, reflects the protracted, ceremonious procedures attending THE MARRYING MAIDEN, shows a young girl under the guidance of an older man who marries her.
+Above we have Chên, the eldest son, and below, Tui, the youngest daughter. The man leads and the girl follows him in gladness. The picture is that of the entrance of the girl into her husband's house. In all, there are four hexagrams depicting the relationship between husband and wife. Hsien, INFLUENCE, 31, describes the attraction that a young couple have for each other; Hêng, DURATION 32, portrays the permanent relationships of marriage; Chien, DEVELOPMENT 53, reflects the protracted, ceremonious procedures attending THE MARRYING MAIDEN, shows a young girl under the guidance of an older man who marries her.
 
 THE JUDGMENT
 
@@ -4372,9 +4352,7 @@ As those of the serving maid.
 The moon that is nearly full
 Brings good fortune.
 
-The sovereign I is T'ang the Completer. This ruler decreed that the imperial princesses should be subordinated to their husbands in the same manner as other women (cf. Hexagram
-
-11, six in the fifth place). The emperor does not wait for a suitor to woo his daughter but gives her in marriage when he sees fit. Therefore it is in accord with custom for the girl's family to take the initiative here. We see here a girl of aristocratic birth who marries a man of modest circumstances and understands how to adapt herself with grace to the new situation. She is free of all vanity of outer adornment, and forgetting her rank in her marriage, takes a place below that of her husband, just as the moon, before it is quite full, does not directly face the sun.
+The sovereign I is T'ang the Completer. This ruler decreed that the imperial princesses should be subordinated to their husbands in the same manner as other women (cf. Hexagram 11, six in the fifth place). The emperor does not wait for a suitor to woo his daughter but gives her in marriage when he sees fit. Therefore it is in accord with custom for the girl's family to take the initiative here. We see here a girl of aristocratic birth who marries a man of modest circumstances and understands how to adapt herself with grace to the new situation. She is free of all vanity of outer adornment, and forgetting her rank in her marriage, takes a place below that of her husband, just as the moon, before it is quite full, does not directly face the sun.
 `,
       `Six at the top means:
 
@@ -4415,9 +4393,7 @@ The image of ABUNDANCE.
 Thus the superior man decides lawsuits
 And carries out punishments.
 
-This hexagram has a certain connection with Shih Ho, BITING THROUGH
-
-21, in which thunder and lightning similarly appear together, but in the reverse order. In BITING THROUGH, laws are laid down; here they are applied and enforced. Clarity [Li] within makes it possible to investigate the facts exactly, and shock [Chên] without ensures a strict and precise carrying out of punishments.
+This hexagram has a certain connection with Shih Ho, BITING THROUGH 21, in which thunder and lightning similarly appear together, but in the reverse order. In BITING THROUGH, laws are laid down; here they are applied and enforced. Clarity [Li] within makes it possible to investigate the facts exactly, and shock [Chên] without ensures a strict and precise carrying out of punishments.
 `,
     lines: [
       `Nine at the beginning means:
@@ -4630,9 +4606,7 @@ Before the change, three days.
 After the change, three days.
 Good fortune.
 
-In the situation described in Ku, WORK ON WHAT HAS BEEN SPOILED
-
-18, an entirely new point of departure must be set up, whereas here it is only a question of reforms. The beginning has not been good, but the moment has been reached when a new direction can be taken. Change and improvement are called for. Such steps must be undertaken with steadfastness, that is, with a firm and correct attitude of mind; then they will succeed, and remorse will disappear. But it must be remembered that such improvements require careful consideration. Before a change is made, it must be pondered over again and again. After the change is made, it is necessary to note carefully for some time after how the improvements bear the test of actuality. Such careful work is accompanied by good fortune.
+In the situation described in Ku, WORK ON WHAT HAS BEEN SPOILED 18, an entirely new point of departure must be set up, whereas here it is only a question of reforms. The beginning has not been good, but the moment has been reached when a new direction can be taken. Change and improvement are called for. Such steps must be undertaken with steadfastness, that is, with a firm and correct attitude of mind; then they will succeed, and remorse will disappear. But it must be remembered that such improvements require careful consideration. Before a change is made, it must be pondered over again and again. After the change is made, it is necessary to note carefully for some time after how the improvements bear the test of actuality. Such careful work is accompanied by good fortune.
 `,
       `Nine at the top means:
 
@@ -4727,9 +4701,7 @@ The king approaches his temple.
 It furthers one to cross the great water.
 Perseverance furthers.
 
-The text of this hexagram resembles that of Ts'ui, GATHERING TOGETHER
-
-45. In the latter, the subject is the bringing together of elements that have been separated, as water collects in lakes upon the earth. Here the subject is the dispersing and dissolving of divisive egotism. DISPERSION shows the way, so to speak, that leads to gathering together. This explains the similarity of the two texts. Religious forces are needed to overcome the egotism that divides men. The common celebration of the great sacrificial feasts and sacred rites, which gave expression simultaneously to the interrelation and social articulation of the family and state, was the means of employed by the great ruler to unite men. The sacred music and the splendor of the ceremonies aroused a strong tide of emotion that was shared by all hearts in unison, and that awakened a consciousness of the common origin of all creatures. In this way disunity was overcome and rigidity dissolved. A further means to the same end is co-operation in great general undertakings that set a high goal for the will of the people; in the common concentration on this goal, all barriers dissolve, just as, when a boat is crossing a great stream, all hands must unite in a joint task. But only a man who is himself free of all selfish ulterior considerations, and who perseveres in justice and steadfastness, is capable of so dissolving the hardness of egotism.
+The text of this hexagram resembles that of Ts'ui, GATHERING TOGETHER 45. In the latter, the subject is the bringing together of elements that have been separated, as water collects in lakes upon the earth. Here the subject is the dispersing and dissolving of divisive egotism. DISPERSION shows the way, so to speak, that leads to gathering together. This explains the similarity of the two texts. Religious forces are needed to overcome the egotism that divides men. The common celebration of the great sacrificial feasts and sacred rites, which gave expression simultaneously to the interrelation and social articulation of the family and state, was the means of employed by the great ruler to unite men. The sacred music and the splendor of the ceremonies aroused a strong tide of emotion that was shared by all hearts in unison, and that awakened a consciousness of the common origin of all creatures. In this way disunity was overcome and rigidity dissolved. A further means to the same end is co-operation in great general undertakings that set a high goal for the will of the people; in the common concentration on this goal, all barriers dissolve, just as, when a boat is crossing a great stream, all hands must unite in a joint task. But only a man who is himself free of all selfish ulterior considerations, and who perseveres in justice and steadfastness, is capable of so dissolving the hardness of egotism.
 
 THE IMAGE
 
@@ -4953,13 +4925,7 @@ The cock is dependable. It crows at dawn. But it cannot itself fly to heaven. It
     text: `above CHêN THE AROUSING, THUNDER
 below KêN KEEPING STILL, MOUNTAIN
 
-While in the hexagram Ta Kuo, PREPONDERANCE OF THE GREAT
-
-28, the strong lines preponderate and are within, inclosed between weak lines at the top and bottom, the present hexagram has weak lines preponderating, though here again they are on the outside, the strong lines being within. This indeed is the basis of the exceptional situation indicated by the hexagram. When strong lines are outside, we have the hexagram I, PROVIDING NOURISHMENT
-
-27, or Chung Fu, INNER TRUTH,
-
-61; neither represents and exceptional state. When strong elements within preponderate, they necessarily enforce their will. This creates struggle and exceptional conditions in general. But in the present hexagram it is the weak element that perforce must mediate with the outside world. If a man occupies a position of authority for which he is by nature really inadequate, extraordinary prudence is necessary.
+While in the hexagram Ta Kuo, PREPONDERANCE OF THE GREAT 28, the strong lines preponderate and are within, inclosed between weak lines at the top and bottom, the present hexagram has weak lines preponderating, though here again they are on the outside, the strong lines being within. This indeed is the basis of the exceptional situation indicated by the hexagram. When strong lines are outside, we have the hexagram I, PROVIDING NOURISHMENT 27, or Chung Fu, INNER TRUTH, 61; neither represents and exceptional state. When strong elements within preponderate, they necessarily enforce their will. This creates struggle and exceptional conditions in general. But in the present hexagram it is the weak element that perforce must mediate with the outside world. If a man occupies a position of authority for which he is by nature really inadequate, extraordinary prudence is necessary.
 
 THE JUDGMENT
 
@@ -4973,9 +4939,7 @@ It is not well to strive upward,
 It is well to remain below.
 Great good fortune.
 
-Exceptional modesty and conscientiousness are sure to be rewarded with success; however, if a man is not to throw himself away, it is important that they should not become empty form and subservience but be combined always with a correct dignity in personal behavior. We must understand the demands of the time in order to find the necessary offset for its deficiencies and damages. In any event we must not count on great success, since the requisite strength is lacking. In this lies the importance of the message that one should not strive after lofty things but hold to lowly things. The structure of the hexagram gives rise to the idea that this message is brought by a bird. In Ta Kuo, PREPONDERANCE OF THE GREAT
-
-28, the four strong, heavy lines within, supported only by two weak lines without, give the image of a sagging ridgepole. Here the supporting weak lines are both outside and preponderant; this gives the image of a soaring bird. But a bird should not try to surpass itself and fly into the sun; it should descend to the earth, where its nest is. In this way it gives the message conveyed by the hexagram.
+Exceptional modesty and conscientiousness are sure to be rewarded with success; however, if a man is not to throw himself away, it is important that they should not become empty form and subservience but be combined always with a correct dignity in personal behavior. We must understand the demands of the time in order to find the necessary offset for its deficiencies and damages. In any event we must not count on great success, since the requisite strength is lacking. In this lies the importance of the message that one should not strive after lofty things but hold to lowly things. The structure of the hexagram gives rise to the idea that this message is brought by a bird. In Ta Kuo, PREPONDERANCE OF THE GREAT 28, the four strong, heavy lines within, supported only by two weak lines without, give the image of a sagging ridgepole. Here the supporting weak lines are both outside and preponderant; this gives the image of a soaring bird. But a bird should not try to surpass itself and fly into the sun; it should descend to the earth, where its nest is. In this way it gives the message conveyed by the hexagram.
 
 THE IMAGE
 
@@ -5053,11 +5017,7 @@ If one overshoots the goal, one cannot hit it. If a bird will not come to its ne
     text: `above K'AN THE ABYSMAL, WATER
 below LI THE CLINGING, FIRE
 
-This hexagram is the evolution of T'ai PEACE
-
-11. The transition from confusion to order is completed, and everything is in its proper place even in particulars. The strong lines are in the strong places, the weak lines in the weak places. This is a very favorable outlook, yet it gives reason for thought. For it is just when perfect equilibrium has been reached that any movement may cause order to revert to disorder. The one strong line that has moved to the top, thus effecting complete order in details, is followed by the other lines. Each moving according to its nature, and thus suddenly there arises again the hexagram P'i, STANDSTILL
-
-12. Hence the present hexagram indicates the conditions of a time of climax, which necessitate the utmost caution.
+This hexagram is the evolution of T'ai PEACE 11. The transition from confusion to order is completed, and everything is in its proper place even in particulars. The strong lines are in the strong places, the weak lines in the weak places. This is a very favorable outlook, yet it gives reason for thought. For it is just when perfect equilibrium has been reached that any movement may cause order to revert to disorder. The one strong line that has moved to the top, thus effecting complete order in details, is followed by the other lines. Each moving according to its nature, and thus suddenly there arises again the hexagram P'i, STANDSTILL 12. Hence the present hexagram indicates the conditions of a time of climax, which necessitate the utmost caution.
 
 THE JUDGMENT
 
