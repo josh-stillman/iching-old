@@ -35,7 +35,7 @@ class IChingPage extends Component<any, State> {
           <br/>
           <br/>
           {hexagram.text}
-          {changingHex ? <><br/><h1>LINES:</h1> {hexagram.changingLinesText.map(line => <p>{line}</p>)}</> : ""}
+          {changingHex ? <><br/><h1>LINES:</h1> <ul>{hexagram.changingLinesText.map(line => <li>{line}<br/></li>)}</ul></> : ""}
           <br />
           <hr/>
           {changingHex && <>
@@ -45,12 +45,6 @@ class IChingPage extends Component<any, State> {
           {changingHex.text}
           </>}
         </TextContainer>
-
-        <LinkContainer>
-          <Link href="https://amzn.to/2lj00j1" target="_blank">The Book</Link>
-
-          <Link href="https://amzn.to/2jS6mW5" target="_blank">The Modern Commentary</Link>
-        </LinkContainer>
       </IChingPageWrapper>
     );
   }
