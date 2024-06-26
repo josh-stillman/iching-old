@@ -3695,7 +3695,7 @@ No blame.
 When one has something to say,
 It is not believed.
 
-Times of adversity are the reverse of times of success, but they can lead to success if they; befall the right man. When a strong man meets with adversity, he remains cheerful despite all danger, and this cheerfulness is the source of later successes; it is that stability which is stronger than fate. He who lets his spirit be broken by exhaustion certainly has no success. But if adversity only bends a man, it creates in him a power to react that is bound in time to manifest itself. No inferior man is capable of this. Only the great man brings about goof fortune and remains blameless. It is true that for the time being outward influence is denied him, because his words have no effect. Therefore in times of adversity it is important to be strong within and sparing of words.
+Times of adversity are the reverse of times of success, but they can lead to success if they befall the right man. When a strong man meets with adversity, he remains cheerful despite all danger, and this cheerfulness is the source of later successes; it is that stability which is stronger than fate. He who lets his spirit be broken by exhaustion certainly has no success. But if adversity only bends a man, it creates in him a power to react that is bound in time to manifest itself. No inferior man is capable of this. Only the great man brings about goof fortune and remains blameless. It is true that for the time being outward influence is denied him, because his words have no effect. Therefore in times of adversity it is important to be strong within and sparing of words.
 
 THE IMAGE
 
