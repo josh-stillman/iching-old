@@ -84,7 +84,7 @@ When all the lines are nines, it means that the whole hexagram is in motion and 
     text: `above K'UN THE RECEPTIVE, EARTH
 below K'UN THE RECEPTIVE, EARTH
 
-This hexagram is made up of broken lines only. The broken lines represents the dark, yielding, receptive primal power of yin. The attribute of the hexagram is devotion; its image is the earth. It is the perfect complement of THE CREATIVE--the complement, not the opposite, for the Receptive does not combat the Creative but completes it . It represents nature in contrast to spirit, earth in contrast to heaven, space as against time, the female-maternal as against the male-paternal. However, as applied to human affairs, the principle of this complementary relationship is found not only in the relation between man and woman, but also in that between prince and minister and between father and son. Indeed, even in the individual this duality appears in the coexistence of the spiritual world and the world of the senses. But strictly speaking there is no real dualism here, because there is a clearly defined hierarchic relationship between the two principles. In itself of course the Receptive is just as important as the Creative, but the attribute of devotion defines the place occupied by this primal power in relation to the Creative. For the Receptive must be activated and led by the Creative; then it is productive of good. Only when it abandons this position and tries to stand as an equal side by side with the Creative, does it become evil. The result then is opposition to and struggle against the Creative, which is productive of evil to both.
+This hexagram is made up of broken lines only. The broken lines represents the dark, yielding, receptive primal power of yin. The attribute of the hexagram is devotion; its image is the earth. It is the perfect complement of THE CREATIVE—the complement, not the opposite, for the Receptive does not combat the Creative but completes it . It represents nature in contrast to spirit, earth in contrast to heaven, space as against time, the female-maternal as against the male-paternal. However, as applied to human affairs, the principle of this complementary relationship is found not only in the relation between man and woman, but also in that between prince and minister and between father and son. Indeed, even in the individual this duality appears in the coexistence of the spiritual world and the world of the senses. But strictly speaking there is no real dualism here, because there is a clearly defined hierarchic relationship between the two principles. In itself of course the Receptive is just as important as the Creative, but the attribute of devotion defines the place occupied by this primal power in relation to the Creative. For the Receptive must be activated and led by the Creative; then it is productive of good. Only when it abandons this position and tries to stand as an equal side by side with the Creative, does it become evil. The result then is opposition to and struggle against the Creative, which is productive of evil to both.
 
 THE JUDGMENT
 
@@ -97,7 +97,7 @@ It is favorable to find friends in the west and south,
 To forego friends in the east and north.
 Quiet perseverance brings good fortune.
 
-The four fundamental aspects of the Creative--"sublime success, furthering through perseverance"--are also attributed to the Receptive. Here, however, the perseverance is more closely defined: it is that of a mare. The Receptive connotes spatial reality in contrast to the spiritual potentiality of the Creative. The potential becomes real and the spiritual becomes spatial through a specifically qualifying definition. Thus the qualification, "of a mare," is here added to the idea of perseverance. The horse belongs to earth just as the dragon belongs to heaven. Its tireless roaming over the plains is taken as a symbol of the vast expanse of the earth. This is the symbol chosen because the mare combines the strength and swiftness of the horse with the gentleness and devotion of the cow. Only because nature in its myriad forms corresponds with the myriad impulses of the Creative can it make these impulses real. Nature's richness lies in its power to nourish all living things; its greatness lies in its power to give then beauty and splendor. Thus it prospers all that lives. IT is the Creative that begets things, but they are brought to birth by the Receptive. Applied to human affairs, therefore, what the hexagram indicated is action in conformity with the situation. The person in questions not in an independent position, but is acting as an assistant. This means that he must achieve something. It is not his task to try to lead--that would only make him lose the way-but to let himself be led. If he knows how to meet fate with an attitude of acceptance, he is sure to find the right guidance. The superior man lets himself be guided; he does not go ahead blindly, but learns from the situation what is demanded of him and then follows this intimation from fate. Since there is something to be accomplished, we need friends and helpers in the hour of toil and effort, once the ideas to be realized are firmly set. The time of toil and effort is indicated by the west and south, for west and south symbolize the place where the Receptive works for the Creative, as nature does in summer and autumn. If in that situation one does not mobilize all one's powers, the work to be accomplished will not be done. Hence to find friends there means to find guidance. But in addition to the time of toil and effort, there is also a time of planning, and for this we need this solitude. The east symbolized the place where a man receives orders from his master, and the north the place where he reports on what he has done. At that time he must be alone and objective. In this sacred hour he must do without companions. So that the purity of the moment may not be spoiled by fictional hates and favoritism.
+The four fundamental aspects of the Creative—"sublime success, furthering through perseverance"—are also attributed to the Receptive. Here, however, the perseverance is more closely defined: it is that of a mare. The Receptive connotes spatial reality in contrast to the spiritual potentiality of the Creative. The potential becomes real and the spiritual becomes spatial through a specifically qualifying definition. Thus the qualification, "of a mare," is here added to the idea of perseverance. The horse belongs to earth just as the dragon belongs to heaven. Its tireless roaming over the plains is taken as a symbol of the vast expanse of the earth. This is the symbol chosen because the mare combines the strength and swiftness of the horse with the gentleness and devotion of the cow. Only because nature in its myriad forms corresponds with the myriad impulses of the Creative can it make these impulses real. Nature's richness lies in its power to nourish all living things; its greatness lies in its power to give then beauty and splendor. Thus it prospers all that lives. IT is the Creative that begets things, but they are brought to birth by the Receptive. Applied to human affairs, therefore, what the hexagram indicated is action in conformity with the situation. The person in questions not in an independent position, but is acting as an assistant. This means that he must achieve something. It is not his task to try to lead—that would only make him lose the way-but to let himself be led. If he knows how to meet fate with an attitude of acceptance, he is sure to find the right guidance. The superior man lets himself be guided; he does not go ahead blindly, but learns from the situation what is demanded of him and then follows this intimation from fate. Since there is something to be accomplished, we need friends and helpers in the hour of toil and effort, once the ideas to be realized are firmly set. The time of toil and effort is indicated by the west and south, for west and south symbolize the place where the Receptive works for the Creative, as nature does in summer and autumn. If in that situation one does not mobilize all one's powers, the work to be accomplished will not be done. Hence to find friends there means to find guidance. But in addition to the time of toil and effort, there is also a time of planning, and for this we need this solitude. The east symbolized the place where a man receives orders from his master, and the north the place where he reports on what he has done. At that time he must be alone and objective. In this sacred hour he must do without companions. So that the purity of the moment may not be spoiled by fictional hates and favoritism.
 
 THE IMAGE
 
@@ -142,7 +142,7 @@ The dark element opens when it moves and closes when at rest. The strictest reti
 
 A yellow lower garment brings supreme good fortune.
 
-Yellow is the color of the earth and of the middle; it is the symbol of that which is reliable and genuine. The lower garment is inconspicuously decorated--the symbol of aristocratic reserve. When anyone is called upon to work in a prominent but not independent position, true success depends on the utmost discretion. A man's genuineness and refinement should not reveal themselves directly; they should express themselves only indirectly as an effect from within.
+Yellow is the color of the earth and of the middle; it is the symbol of that which is reliable and genuine. The lower garment is inconspicuously decorated—the symbol of aristocratic reserve. When anyone is called upon to work in a prominent but not independent position, true success depends on the utmost discretion. A man's genuineness and refinement should not reveal themselves directly; they should express themselves only indirectly as an effect from within.
 `,
       `Six at the top means:
 
@@ -166,7 +166,7 @@ When nothing but sixes appears, the hexagram of THE RECEPTIVE changes into the h
     text: `above K'AN THE ABYSMAL, WATER
 below CHêN THE AROUSING, THUNDER
 
-The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth--hence the meaning, "difficulty at the beginning." The hexagram indicates the way in which heaven and earth bring forth individual beings. It is their first meeting, which is beset with difficulties. The lower trigram Chên is the Arousing; its motion is upward and its image is thunder. The upper trigram K'an stands for the Abysmal, the dangerous. Its motion is downward and its image is rain. The situation points to teeming, chaotic profusion; thunder and rain fill the air. But the chaos clears up. While the Abysmal sinks, the upward movement eventually passes beyond the danger. A thunderstorm brings release from tension, and all things breathe freely again.
+The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth—hence the meaning, "difficulty at the beginning." The hexagram indicates the way in which heaven and earth bring forth individual beings. It is their first meeting, which is beset with difficulties. The lower trigram Chên is the Arousing; its motion is upward and its image is thunder. The upper trigram K'an stands for the Abysmal, the dangerous. Its motion is downward and its image is rain. The situation points to teeming, chaotic profusion; thunder and rain fill the air. But the chaos clears up. While the Abysmal sinks, the upward movement eventually passes beyond the danger. A thunderstorm brings release from tension, and all things breathe freely again.
 
 THE JUDGMENT
 
@@ -205,7 +205,7 @@ He is not a robber;
 He wants to woo when the time comes.
 The maiden is chaste,
 She does not pledge herself.
-Ten years--then she pledges herself.
+Ten years—then she pledges herself.
 
 We find ourselves beset by difficulties and hindrances. Suddenly there is a turn of affairs, as if someone were coming up with a horse and wagon and unhitching them. This event comes so unexpectedly that we assume the newcomer to be a robber. Gradually it becomes clear that he has no evil intentions but seeks to be friendly and to offer help. But this offer is not to be accepted, because it does not come from the right quarter. We must wait until the time is fulfilled; ten years is a fulfilled cycle of time. Then normal conditions return of themselves, and we can join forces with the friend intended for us. Using the image of a betrothed girl who remains true to her lover in face of grave conflicts, the hexagram gives counsel for a special situation. When in times of difficulty a hindrance is encountered and unexpected relief is offered from a source unrelated to us, we must be careful and not take upon ourselves any obligations entailed by such help; otherwise our freedom of decision is impaired. If we bide our time, things will quiet down again, and we shall attain what we have hoped for.
 `,
@@ -331,7 +331,7 @@ Sometimes an incorrigible fool must be punished. He who will not heed will be ma
     text: `above K'AN THE ABYSMAL, WATER
 below CH'IEN THE CREATIVE, HEAVEN
 
-All beings have need of nourishment from above. But the gift of food comes in its own time, and for this one must wait. This hexagram shows the clouds in the heavens, giving rain to refresh all that grows and to provide mankind with food and drink. The rain will come in its own time. We cannot make it come; we have to wait for it. The idea of waiting is further suggested by the attributes of the two trigrams--strength within, danger in from. Strength in the face of danger does not plunge ahead but bides its time, whereas weakness in the face of danger grows agitated and has not the patience to wait.
+All beings have need of nourishment from above. But the gift of food comes in its own time, and for this one must wait. This hexagram shows the clouds in the heavens, giving rain to refresh all that grows and to provide mankind with food and drink. The rain will come in its own time. We cannot make it come; we have to wait for it. The idea of waiting is further suggested by the attributes of the two trigrams—strength within, danger in from. Strength in the face of danger does not plunge ahead but bides its time, whereas weakness in the face of danger grows agitated and has not the patience to wait.
 
 THE JUDGMENT
 
@@ -340,7 +340,7 @@ You have light and success.
 Perseverance brings good fortune.
 It furthers one to cross the great water.
 
-Waiting is not mere empty hoping. It has the inner certainty of reaching the goal. Such certainty alone gives that light which leads to success. This leads to the perseverance that brings good fortune and bestows power to cross the great water. One is faced with a danger that has to be overcome. Weakness and impatience can do nothing. Only a strong man can stand up to his fate, for his inner security enables him to endure to the end. This strength shows itself in uncompromising truthfulness [with himself]. It is only when we have the courage to face things exactly as they are, without any sort of self-deception or illusion, that a light will develop out of events, by which the path to success may be recognized. This recognition must be followed by resolute and persevering action. For only the man who goes to meet his fate resolutely is equipped to deal with it adequately. Then he will be able to cross the great water--that is to say, he will be capable of making the necessary decision and of surmounting the danger.
+Waiting is not mere empty hoping. It has the inner certainty of reaching the goal. Such certainty alone gives that light which leads to success. This leads to the perseverance that brings good fortune and bestows power to cross the great water. One is faced with a danger that has to be overcome. Weakness and impatience can do nothing. Only a strong man can stand up to his fate, for his inner security enables him to endure to the end. This strength shows itself in uncompromising truthfulness [with himself]. It is only when we have the courage to face things exactly as they are, without any sort of self-deception or illusion, that a light will develop out of events, by which the path to success may be recognized. This recognition must be followed by resolute and persevering action. For only the man who goes to meet his fate resolutely is equipped to deal with it adequately. Then he will be able to cross the great water—that is to say, he will be capable of making the necessary decision and of surmounting the danger.
 
 THE IMAGE
 
@@ -380,7 +380,7 @@ Mud is no place for waiting, since it is already being washed by the water of th
 Waiting in blood.
 Get out of the pit.
 
-The situation is extremely dangerous. IT is of utmost gravity now--a matter of life and death. Bloodshed seems imminent. There is no going forward or backward; we are cut off as if in a pit. Now we must simply stand fast and let fate take its course. This composure, which keeps us from aggravating the trouble by anything we might do, is the only way of getting out of the dangerous pit.
+The situation is extremely dangerous. IT is of utmost gravity now—a matter of life and death. Bloodshed seems imminent. There is no going forward or backward; we are cut off as if in a pit. Now we must simply stand fast and let fate take its course. This composure, which keeps us from aggravating the trouble by anything we might do, is the only way of getting out of the dangerous pit.
 `,
       `Nine in the fifth place means:
 
@@ -488,7 +488,7 @@ Here we have someone who has carried a conflict to the bitter end and has triump
     text: `above K'UN THE RECEPTIVE, EARTH
 below K'AN THE ABYSMAL, WATER
 
-This hexagram is made up of the trigrams K'an, water, and K'un, earth, and thus it symbolizes the ground water stored up in the earth. In the same way military strength is stored up in the mass of the people--invisible in times of peace but always ready for use as a source of power. The attributes of the two trig rams are danger inside and obedience must prevail outside. Of the individual lines, the one that controls the hexagram is the strong nine in the second place, to which the other lines, all yielding, are subordinate. This line indicates a commander, because it stands in the middle of one of the two trigrams. But since it is in the lower rather than the upper trigram, it represents not the ruler but the efficient general, who maintains obedience in the army by his authority.
+This hexagram is made up of the trigrams K'an, water, and K'un, earth, and thus it symbolizes the ground water stored up in the earth. In the same way military strength is stored up in the mass of the people—invisible in times of peace but always ready for use as a source of power. The attributes of the two trig rams are danger inside and obedience must prevail outside. Of the individual lines, the one that controls the hexagram is the strong nine in the second place, to which the other lines, all yielding, are subordinate. This line indicates a commander, because it stands in the middle of one of the two trigrams. But since it is in the lower rather than the upper trigram, it represents not the ruler but the efficient general, who maintains obedience in the army by his authority.
 
 THE JUDGMENT
 
@@ -547,7 +547,7 @@ Let the eldest lead the army.
 The younger transports corpses;
 Then perseverance brings misfortune.
 
-Game is in the field--it has left its usual haunts in the forest and is devastating the fields. This points to an enemy invasion. Energetic combat and punishment are here thoroughly justified, but they must not degenerate into a wild melee in which everyone fends for himself. Despite the greatest degree of perseverance and bravery, this would lead to misfortune. The army must be directed by an experienced leader. It is a matter of waging war, not of permitting the mob to slaughter all who fall into their hands; if they do, defeat will be the result, and despite all perseverance there is danger of misfortune.
+Game is in the field—it has left its usual haunts in the forest and is devastating the fields. This points to an enemy invasion. Energetic combat and punishment are here thoroughly justified, but they must not degenerate into a wild melee in which everyone fends for himself. Despite the greatest degree of perseverance and bravery, this would lead to misfortune. The army must be directed by an experienced leader. It is a matter of waging war, not of permitting the mob to slaughter all who fall into their hands; if they do, defeat will be the result, and despite all perseverance there is danger of misfortune.
 `,
       `Six at the top means:
 
@@ -629,7 +629,7 @@ In the hunt the king uses beaters on three sides only
 And forgoes game that runs off in front.
 The citizens need no warning.
 Good fortune.
-In the royal hunts of ancient China it was customary to drive up the game from three sides, but on the fourth the animals had a chance to run off. If they failed to do this they had to pass through a gate behind which the king stood ready to shoot. Only animals that entered here were shot; those that ran off in front were permitted to escape. This custom accorded with a kingly attitude; the royal hunter did not wish to turn the chase into a slaughter, but held that the kill should consist only of those animals which had so to speak voluntarily exposed themselves. There is depicted here a ruler, or influential man, to whom people are attracted. Those who come to him he accepts, those who do not come are allowed to go their own way. He invited none, flatters none--all come of their own free will. In this way there develops a voluntary dependence among those who hold him. They do not have to be constantly on their guard but may express their opinions openly. Police measures are not necessary, and they cleave to their ruler of their own volition. The same principle of freedom is valid for life in general. We should not woo favor from people. If a man cultivates within himself the purity and the strength that are necessary for one who is the center of a fellowship, those who are meant for him come of their own accord.
+In the royal hunts of ancient China it was customary to drive up the game from three sides, but on the fourth the animals had a chance to run off. If they failed to do this they had to pass through a gate behind which the king stood ready to shoot. Only animals that entered here were shot; those that ran off in front were permitted to escape. This custom accorded with a kingly attitude; the royal hunter did not wish to turn the chase into a slaughter, but held that the kill should consist only of those animals which had so to speak voluntarily exposed themselves. There is depicted here a ruler, or influential man, to whom people are attracted. Those who come to him he accepts, those who do not come are allowed to go their own way. He invited none, flatters none—all come of their own free will. In this way there develops a voluntary dependence among those who hold him. They do not have to be constantly on their guard but may express their opinions openly. Police measures are not necessary, and they cleave to their ruler of their own volition. The same principle of freedom is valid for life in general. We should not woo favor from people. If a man cultivates within himself the purity and the strength that are necessary for one who is the center of a fellowship, those who are meant for him come of their own accord.
 `,
       `Six at the top means:
 
@@ -645,7 +645,7 @@ The head is the beginning. If the beginning is not right, there is no hope of a 
     text: `above SUN THE GENTLE, WIND
 below CH'IEN THE CREATIVE, HEAVEN
 
-This hexagram means the force of the small--the power of the shadowy--that restrains, tames, impedes. A weak line in the fourth place, that of the minister, holds the five strong lines in check. In the Image it is the wind blowing across the sky. The wind restrains the clouds, the rising breath of the Creative, and makes them grow dense, but as yet is not strong enough to turn them to rain. The hexagram presents a configuration of circumstances in which a strong element is temporarily held in leash by a weak element. It is only through gentleness that this can have a successful outcome.
+This hexagram means the force of the small—the power of the shadowy—that restrains, tames, impedes. A weak line in the fourth place, that of the minister, holds the five strong lines in check. In the Image it is the wind blowing across the sky. The wind restrains the clouds, the rising breath of the Creative, and makes them grow dense, but as yet is not strong enough to turn them to rain. The hexagram presents a configuration of circumstances in which a strong element is temporarily held in leash by a weak element. It is only through gentleness that this can have a successful outcome.
 
 THE JUDGMENT
 
@@ -707,7 +707,7 @@ The moon is nearly full.
 If the superior man persists,
 Misfortune comes.
 
-Success is at hand. The wind has driven up the rain. A fixed standpoint has been reach. This has come about through the cumulation of small effects produced by reverence for a superior character. But a success thus secured bit by bit calls for great caution. It would be a dangerous illusion for anyone to think he could presume upon it. The female principle, the weak element that has won the victory, should never persist in vaunting it--that would lead to danger. The dark power in the moon is strongest when the moon is almost full. When it is full and directly opposite the sun, its waning is inevitable. Under such circumstances one must be content with what has been achieved. To advance any further, before the appropriate time has come, would lead to misfortune.
+Success is at hand. The wind has driven up the rain. A fixed standpoint has been reach. This has come about through the cumulation of small effects produced by reverence for a superior character. But a success thus secured bit by bit calls for great caution. It would be a dangerous illusion for anyone to think he could presume upon it. The female principle, the weak element that has won the victory, should never persist in vaunting it—that would lead to danger. The dark power in the moon is strongest when the moon is almost full. When it is full and directly opposite the sun, its waning is inevitable. Under such circumstances one must be content with what has been achieved. To advance any further, before the appropriate time has come, would lead to misfortune.
 `,
     ],
   },
@@ -955,7 +955,7 @@ The standstill does not last forever. However, it does not cease of its own acco
     text: `above CH'IEN THE CREATIVE, HEAVEN
 below LI THE CLINGING, FLAME
 
-The image of the upper trigram Ch'ien is heaven, and that of the lower, Li, is flame. It is the nature of fire to flame up to the heaven. This gives the idea of fellowship. IT is the second line that, by virtue of its central character, unites the five strong lines around it. This hexagram forms a complement to Shih, THE ARMY 1. In the latter, danger is within and obedience without--the character of a warlike army, which, in order to hold together, needs one strong man among the many who are weak. Here, clarity is within and strength without--the character of a peaceful union of men, which, in order to hold together, needs one yielding nature among many firm persons.
+The image of the upper trigram Ch'ien is heaven, and that of the lower, Li, is flame. It is the nature of fire to flame up to the heaven. This gives the idea of fellowship. IT is the second line that, by virtue of its central character, unites the five strong lines around it. This hexagram forms a complement to Shih, THE ARMY 1. In the latter, danger is within and obedience without—the character of a warlike army, which, in order to hold together, needs one strong man among the many who are weak. Here, clarity is within and strength without—the character of a peaceful union of men, which, in order to hold together, needs one yielding nature among many firm persons.
 
 THE JUDGMENT
 
@@ -965,7 +965,7 @@ Success.
 It furthers one to cross the great water.
 The perseverance of the superior man furthers.
 
-True fellowship among men must be based upon a concern that is universal. It is not the private interests of the individual that create lasting fellowship among men, but rather the goals of humanity. That is why it is said that fellowship with men in the open succeeds. If unity of this kind prevails, even difficult and dangerous tasks, such as crossing the great water, can be accomplished. But in order to bring about this sort of fellowship, a persevering and enlightened leader is needed--a man with clear, convincing, and inspiring aims and the strength to carry them out. (The inner trigram means clarity; the outer, strength.)
+True fellowship among men must be based upon a concern that is universal. It is not the private interests of the individual that create lasting fellowship among men, but rather the goals of humanity. That is why it is said that fellowship with men in the open succeeds. If unity of this kind prevails, even difficult and dangerous tasks, such as crossing the great water, can be accomplished. But in order to bring about this sort of fellowship, a persevering and enlightened leader is needed—a man with clear, convincing, and inspiring aims and the strength to carry them out. (The inner trigram means clarity; the outer, strength.)
 
 THE IMAGE
 
@@ -975,7 +975,7 @@ The image of FELLOWSHIP WITH MEN.
 Thus the superior man organizes the clans
 And makes distinctions between things.
 
-Heaven has the same direction of movement as fire, yet it is different from fire. Just as the luminaries in the sky serve for the systematic division and arrangement of time, so human society and all things that really belong together must be organically arranged. Fellowship should not be a mere mingling of individuals or of things--that would be chaos, not fellowship. If fellowship is to lead to order, there must be organization within diversity.
+Heaven has the same direction of movement as fire, yet it is different from fire. Just as the luminaries in the sky serve for the systematic division and arrangement of time, so human society and all things that really belong together must be organically arranged. Fellowship should not be a mere mingling of individuals or of things—that would be chaos, not fellowship. If fellowship is to lead to order, there must be organization within diversity.
 `,
     lines: [
       `Nine at the beginning means:
@@ -1041,7 +1041,7 @@ POSSESSION IN GREAT MEASURE.
 
 Supreme success.
 
-The two trigrams indicate that strength and clarity unite. Possessions great measure is determined by fate and accords with the time. How is it possible that the weak line has power to hold the strong lines fast and to possess them? It is done by virtue of unselfish modesty. The time is favorable--a time of strength within, clarity and culture without. Power is expressing itself in graceful and controlled way. This brings supreme success and wealth.
+The two trigrams indicate that strength and clarity unite. Possessions great measure is determined by fate and accords with the time. How is it possible that the weak line has power to hold the strong lines fast and to possess them? It is done by virtue of unselfish modesty. The time is favorable—a time of strength within, clarity and culture without. Power is expressing itself in graceful and controlled way. This brings supreme success and wealth.
 
 THE IMAGE
 
@@ -1206,7 +1206,7 @@ And offered it with splendor
 To the Supreme Deity,
 Inviting their ancestors to be present.
 
-When, at the beginning of summer, thunder--electrical energy--comes rushing forth from the earth again, and the first thunderstorm refreshes nature, a prolonged state of tension is resolved. Joy and relief make themselves felt. So too, music has power to ease tension within the heart and to loosen the grip of obscure emotions. The enthusiasm of the heart expresses itself involuntarily in a burst of song, in dance and rhythmic movement of the body. From immemorial times the inspiring effect of the invisible sound that moves all hearts, and draws them together, has mystified mankind. Rulers have made use of this natural taste for music; they elevated and regulated it. Music was looked upon as something serious and holy, designed to purify the feelings of men. It fell to music to glorify the virtues of heroes and thus to construct a bridge to the world of the unseen. In the temple men drew near to God with music and pantomimes (out of this later the theater developed). Religious feeling for the Creator of the world was united with the most sacred of human feelings, that of reverence for the ancestors. The ancestors were invited to these divine services as guests of the Ruler of Heaven and as representatives of humanity in the higher regions. This uniting of the human past with the Divinity in solemn moments of religious inspiration established the bond between God and man. The ruler who revered the Divinity in revering his ancestors became thereby the Son of Heaven, in whom the heavenly and the earthly world met in mystical contact. These ideas are the final summation of Chinese culture. Confucius has said of the great sacrifice at which these rites were performed: "He who could wholly comprehend this sacrifice could rule the world as though it were spinning on his hand."
+When, at the beginning of summer, thunder—electrical energy—comes rushing forth from the earth again, and the first thunderstorm refreshes nature, a prolonged state of tension is resolved. Joy and relief make themselves felt. So too, music has power to ease tension within the heart and to loosen the grip of obscure emotions. The enthusiasm of the heart expresses itself involuntarily in a burst of song, in dance and rhythmic movement of the body. From immemorial times the inspiring effect of the invisible sound that moves all hearts, and draws them together, has mystified mankind. Rulers have made use of this natural taste for music; they elevated and regulated it. Music was looked upon as something serious and holy, designed to purify the feelings of men. It fell to music to glorify the virtues of heroes and thus to construct a bridge to the world of the unseen. In the temple men drew near to God with music and pantomimes (out of this later the theater developed). Religious feeling for the Creator of the world was united with the most sacred of human feelings, that of reverence for the ancestors. The ancestors were invited to these divine services as guests of the Ruler of Heaven and as representatives of humanity in the higher regions. This uniting of the human past with the Divinity in solemn moments of religious inspiration established the bond between God and man. The ruler who revered the Divinity in revering his ancestors became thereby the Son of Heaven, in whom the heavenly and the earthly world met in mystical contact. These ideas are the final summation of Chinese culture. Confucius has said of the great sacrifice at which these rites were performed: "He who could wholly comprehend this sacrifice could rule the world as though it were spinning on his hand."
 `,
     lines: [
       `Six at the beginning means:
@@ -1255,7 +1255,7 @@ This describes a man who is able to awaken enthusiasm through his own sureness a
 
 Persistently ill, and still does not die.
 
-Here enthusiasm is obstructed. A man is under constant pressure, which prevents him from breathing freely. However, this pressure has its advantage--it prevents him from consuming his powers in empty enthusiasm. Thus constant pressure can actually serve to keep one alive.
+Here enthusiasm is obstructed. A man is under constant pressure, which prevents him from breathing freely. However, this pressure has its advantage—it prevents him from consuming his powers in empty enthusiasm. Thus constant pressure can actually serve to keep one alive.
 `,
       `Six at the top means:
 Deluded enthusiasm.
@@ -1279,7 +1279,7 @@ THE JUDGMENT
 FOLLOWING has supreme success.
 Perseverance furthers. No blame.
 
-In order to obtain a following one must first know how to adapt oneself. If a man would rule he must first learn to serve, for only in this way does he secure from those below him the joyous assent that is necessary if they are to follow him. If he has to obtain a following by force or cunning, by conspiracy or by creating faction, he invariably arouses resistance, which obstructs willing adherence. But even joyous movement can lead to evil consequences, hence the added stipulation, "Perseverance furthers" --that is, consistency in doing right-- together with "No blame." Just as we should not ask others to follow us unless this condition is fulfilled, so it is only under this condition that we can in turn follow others without coming to harm. The thought of obtaining a following through adaptation to the demands of the time is a great and significant idea; this is why the appended judgment is so favorable.
+In order to obtain a following one must first know how to adapt oneself. If a man would rule he must first learn to serve, for only in this way does he secure from those below him the joyous assent that is necessary if they are to follow him. If he has to obtain a following by force or cunning, by conspiracy or by creating faction, he invariably arouses resistance, which obstructs willing adherence. But even joyous movement can lead to evil consequences, hence the added stipulation, "Perseverance furthers" —that is, consistency in doing right— together with "No blame." Just as we should not ask others to follow us unless this condition is fulfilled, so it is only under this condition that we can in turn follow others without coming to harm. The thought of obtaining a following through adaptation to the demands of the time is a great and significant idea; this is why the appended judgment is so favorable.
 
 THE IMAGE
 
@@ -1288,7 +1288,7 @@ The image of FOLLOWING.
 Thus the superior man at nightfall
 Goes indoors for rest and recuperation.
 
-In the autumn electricity withdraws into the earth again and rests. Here it is the thunder in the middle of the lake that serves as the image--thunder in its winter rest, not thunder in motion. The idea of following in the sense of adaptation to the demands of the time grows out of this image. Thunder in the middle of the lake indicates times of darkness and rest. Similarly, a superior man, after being tirelessly active all day, allows himself rest and recuperation at night. No situation can become favorable until one is able to adapt to it and does not wear himself out with mistaken resistance.
+In the autumn electricity withdraws into the earth again and rests. Here it is the thunder in the middle of the lake that serves as the image—thunder in its winter rest, not thunder in motion. The idea of following in the sense of adaptation to the demands of the time grows out of this image. Thunder in the middle of the lake indicates times of darkness and rest. Similarly, a superior man, after being tirelessly active all day, allows himself rest and recuperation at night. No situation can become favorable until one is able to adapt to it and does not wear himself out with mistaken resistance.
 `,
     lines: [
       `Nine at the beginning means:
@@ -1330,7 +1330,7 @@ It often happens, when a man exerts a certain amount of influence, that he obtai
 
 Sincere in the good. Good fortune.
 
-Every man must have something he follows--something that serves him as a lodestar. He who follows with conviction the beautiful and the good may feel himself strengthened by this saying.
+Every man must have something he follows—something that serves him as a lodestar. He who follows with conviction the beautiful and the good may feel himself strengthened by this saying.
 `,
       `Six at the top means:
 
@@ -1818,7 +1818,7 @@ Merchants and strangers did not go about,
 And the ruler
 Did not travel through the provinces.
 
-The winter solstice has always been celebrated in China as the resting time of the year--a custom that survives in the time of rest observed at the new year. In winter the life energy, symbolized by thunder, the Arousing, is still underground. Movement is just at its beginning; therefore it must be strengthened by rest so that it will not be dissipated by being used prematurely. This principle, i.e., of allowing energy that is renewing itself to be reinforced by rest, applies to all similar situations. The return of health after illness, the return of understanding after an estrangement: everything must be treated tenderly and with care at the beginning, so that the return may lead to a flowering.
+The winter solstice has always been celebrated in China as the resting time of the year—a custom that survives in the time of rest observed at the new year. In winter the life energy, symbolized by thunder, the Arousing, is still underground. Movement is just at its beginning; therefore it must be strengthened by rest so that it will not be dissipated by being used prematurely. This principle, i.e., of allowing energy that is renewing itself to be reinforced by rest, applies to all similar situations. The return of health after illness, the return of understanding after an estrangement: everything must be treated tenderly and with care at the beginning, so that the return may lead to a flowering.
 `,
     lines: [
       `Nine at the beginning means:
@@ -2203,7 +2203,7 @@ Here is a situation in which the unusual has reached a climax. One is courageous
     text: `above K'AN THE ABYSMAL, WATER
 below K'AN THE ABYSMAL, WATER
 
-This hexagram consists of a doubling of the trigram K'an. It is one of the eight hexagrams in which doubling occurs. The trigram K'an means a plunging in. A yang line has plunged in between two yin lines and is closed in by them like water in a ravine. The trigram K'an is also the middle son. The Receptive has obtained the middle line of the Creative, and thus K'an develops. As an image it represents water, the water that comes from above and is in motion on earth in streams and rivers, giving rise to all life on earth. In man's world K'an represents the heart, the soul locked up within the body, the principle of light inclosed in the dark--that is, reason. The name of the hexagram, because the trigram is doubled, has the additional meaning, "repetition of danger." Thus the hexagram is intended to designate an objective situation to which one must become accustomed, not a subjective attitude. For danger due to a subjective attitude means either foolhardiness or guile. Hence too a ravine is used to symbolize danger; it is a situation in which a man is in the same pass as the water in a ravine, and, like the water, he can escape if he behaves correctly.
+This hexagram consists of a doubling of the trigram K'an. It is one of the eight hexagrams in which doubling occurs. The trigram K'an means a plunging in. A yang line has plunged in between two yin lines and is closed in by them like water in a ravine. The trigram K'an is also the middle son. The Receptive has obtained the middle line of the Creative, and thus K'an develops. As an image it represents water, the water that comes from above and is in motion on earth in streams and rivers, giving rise to all life on earth. In man's world K'an represents the heart, the soul locked up within the body, the principle of light inclosed in the dark—that is, reason. The name of the hexagram, because the trigram is doubled, has the additional meaning, "repetition of danger." Thus the hexagram is intended to designate an objective situation to which one must become accustomed, not a subjective attitude. For danger due to a subjective attitude means either foolhardiness or guile. Hence too a ravine is used to symbolize danger; it is a situation in which a man is in the same pass as the water in a ravine, and, like the water, he can escape if he behaves correctly.
 
 THE JUDGMENT
 
@@ -2211,7 +2211,7 @@ The Abysmal repeated.
 If you are sincere, you have success in your heart,
 And whatever you do succeeds.
 
-Through repetition of danger we grow accustomed to it. Water sets the example for the right conduct under such circumstances. It flows on and on, and merely fills up all the places through which it flows; it does not shrink from any dangerous spot nor from any plunge, and nothing can make it lose its own essential nature. It remains true to itself under all conditions. Thus likewise, if one is sincere when confronted with difficulties, the heart can penetrate the meaning of the situation. And once we have gained inner mastery of a problem, it will come about naturally that the action we take will succeed. In danger all that counts is really carrying out all that has to be done--thoroughness--and going forward, in order not to perish through tarrying in the danger. Properly used, danger can have an important meaning as a protective measure. Thus heaven has its perilous height protecting it against every attempt at invasion, and earth has its mountains and bodies of water, separating countries by their dangers. Thus also rulers make use of danger to protect themselves against attacks from without and against turmoil within.
+Through repetition of danger we grow accustomed to it. Water sets the example for the right conduct under such circumstances. It flows on and on, and merely fills up all the places through which it flows; it does not shrink from any dangerous spot nor from any plunge, and nothing can make it lose its own essential nature. It remains true to itself under all conditions. Thus likewise, if one is sincere when confronted with difficulties, the heart can penetrate the meaning of the situation. And once we have gained inner mastery of a problem, it will come about naturally that the action we take will succeed. In danger all that counts is really carrying out all that has to be done—thoroughness—and going forward, in order not to perish through tarrying in the danger. Properly used, danger can have an important meaning as a protective measure. Thus heaven has its perilous height protecting it against every attempt at invasion, and earth has its mountains and bodies of water, separating countries by their dangers. Thus also rulers make use of danger to protect themselves against attacks from without and against turmoil within.
 
 THE IMAGE
 
@@ -2287,7 +2287,7 @@ A man who in the extremity of danger has lost the right way and is irremediably 
     text: `above LI THE CLINGING, FIRE
 below LI THE CLINGING, FIRE
 
-This hexagram is another double sign. The trigram Li means "to cling to something," and also "brightness." A dark line clings to two light lines, one above and one below--the image of an empty space between two strong lines, whereby the two strong lines are made bright. The trigram represents the middle daughter. The Creative has incorporated the central line of the Receptive, and thus Li develops. As an image, it is fire. Fire has no definite form but clings to the burning object and thus is bright. As water pours down from heaven, so fire flames up from the earth. While K'an means the soul shut within the body, Li stands for nature in its radiance.
+This hexagram is another double sign. The trigram Li means "to cling to something," and also "brightness." A dark line clings to two light lines, one above and one below—the image of an empty space between two strong lines, whereby the two strong lines are made bright. The trigram represents the middle daughter. The Creative has incorporated the central line of the Receptive, and thus Li develops. As an image, it is fire. Fire has no definite form but clings to the burning object and thus is bright. As water pours down from heaven, so fire flames up from the earth. While K'an means the soul shut within the body, Li stands for nature in its radiance.
 
 THE JUDGMENT
 
@@ -2544,7 +2544,7 @@ he holds him fast with yellow oxhide.
 
 No one can tear him loose.
 
-Yellow is the color of the middle. It indicates that which is correct and in line with duty. Oxhide is strong and not to be torn. While the superior men retreat and the inferior press after them, the inferior man represented here holds on so firmly and tightly to the superior man that the latter cannot shake him off. And because he is in quest of what is right an so strong in purpose, he reaches his goal. Thus the line confirms what is said in the Judgment: "In what is small" --here equivalent to "in the inferior man" -- "perseverance furthers."
+Yellow is the color of the middle. It indicates that which is correct and in line with duty. Oxhide is strong and not to be torn. While the superior men retreat and the inferior press after them, the inferior man represented here holds on so firmly and tightly to the superior man that the latter cannot shake him off. And because he is in quest of what is right an so strong in purpose, he reaches his goal. Thus the line confirms what is said in the Judgment: "In what is small" —here equivalent to "in the inferior man" — "perseverance furthers."
 `,
       `Nine in the third place means:
 
@@ -2554,7 +2554,7 @@ Is nerve-wracking and dangerous.
 To retain people as men- and maidservants
 Brings good fortune.
 
-When it is time to retreat it is both unpleasant and dangerous to be held back, because then one no longer has freedom of action. In such a case the only expedient is to take into one's service, so to speak, those who refuse to let one go, so that one may at least keep one's initiative and not fall helplessly under their domination. But even with this expedient the situation is far from satisfactory--for what can one hope to accomplish with such servants?
+When it is time to retreat it is both unpleasant and dangerous to be held back, because then one no longer has freedom of action. In such a case the only expedient is to take into one's service, so to speak, those who refuse to let one go, so that one may at least keep one's initiative and not fall helplessly under their domination. But even with this expedient the situation is far from satisfactory—for what can one hope to accomplish with such servants?
 `,
       `Nine in the fourth place means:
 
@@ -2589,7 +2589,7 @@ THE JUDGMENT
 
 THE POWER OF THE GREAT. Perseverance furthers.
 
-The hexagram points to a time when inner worth mounts with great force and comes to power. But its strength has already passed beyond the median line, hence there is danger that one may rely entirely on one's own power and forget to ask what is right. There is danger too that, being intent on movement, we may not wait for the right time. Therefore the added statement that perseverance furthers. For that is truly great power which does not degenerate into mere force but remains inwardly united with the fundamental principles of right and of justice. When we understand this point--namely, that greatness and justice must be indissolubly united--we understand the true meaning of all that happens in heaven and on earth.
+The hexagram points to a time when inner worth mounts with great force and comes to power. But its strength has already passed beyond the median line, hence there is danger that one may rely entirely on one's own power and forget to ask what is right. There is danger too that, being intent on movement, we may not wait for the right time. Therefore the added statement that perseverance furthers. For that is truly great power which does not degenerate into mere force but remains inwardly united with the fundamental principles of right and of justice. When we understand this point—namely, that greatness and justice must be indissolubly united—we understand the true meaning of all that happens in heaven and on earth.
 
 THE IMAGE
 
@@ -2601,7 +2601,7 @@ Thus the superior man does not tread upon paths
 
 That do not accord with established order.
 
-Thunder--electrical energy--mounts upward in the spring. The direction of this movement is in harmony with that of the movement of heaven. It is therefore a movement in accord with heaven, producing great power. However, true greatness depends on being in harmony with what is right. Therefore in times of great power the superior man avoids doing anything that is not in harmony with the established order.
+Thunder—electrical energy—mounts upward in the spring. The direction of this movement is in harmony with that of the movement of heaven. It is therefore a movement in accord with heaven, producing great power. However, true greatness depends on being in harmony with what is right. Therefore in times of great power the superior man avoids doing anything that is not in harmony with the established order.
 `,
     lines: [
       `Nine at the beginning means:
@@ -2679,7 +2679,7 @@ In a single day he is granted audience three times.
 
 As an example of progress, this pictures a time when a powerful feudal lord rallies the other lords around the sovereign and pledges fealty and peace. The sovereign rewards him richly and invites him to a closer intimacy.
 
-A twofold idea is set forth here. The actual effect of the progress emanates from a man who is in a dependent position and whom the others regard as their equal and are therefore willing to follow. This leader has enough clarity of vision not to abuse his great influence but to use it rather for the benefit of his ruler. His ruler in turn is free of all jealousy, showers presents on the great man, and invites him continually to his court. An enlightened ruler and an obedient servant--this is the condition on which great progress depends.
+A twofold idea is set forth here. The actual effect of the progress emanates from a man who is in a dependent position and whom the others regard as their equal and are therefore willing to follow. This leader has enough clarity of vision not to abuse his great influence but to use it rather for the benefit of his ruler. His ruler in turn is free of all jealousy, showers presents on the great man, and invites him continually to his court. An enlightened ruler and an obedient servant—this is the condition on which great progress depends.
 
 THE IMAGE
 
