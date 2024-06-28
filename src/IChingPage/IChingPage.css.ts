@@ -23,6 +23,12 @@ export const HexContainer = styled.div`
   max-height: 100%;
 `;
 
+export const TextContainer = styled.section`
+  white-space: pre-wrap;
+  text-align: left;
+  font-family: arial;
+`
+
 export const LinkContainer = styled.div`
   justify-self: flex-end;
   display: flex;
